@@ -1,2 +1,3 @@
 add file
-add information on the master
+<<<<<<< HEAD
+add information test success
